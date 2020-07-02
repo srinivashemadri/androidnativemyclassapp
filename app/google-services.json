@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292156459378",
+    "firebase_url": "https://imagestorer-9e996.firebaseio.com",
+    "project_id": "imagestorer-9e996",
+    "storage_bucket": "imagestorer-9e996.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292156459378:android:64ec6307786de28454f5eb",
+        "android_client_info": {
+          "package_name": "com.example.filestorerfirebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292156459378-kk192cgr6m59haq0cead1l6hg5hn90pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9TxXlJGLzNt4ZJCbrxJvJEHa0O237nCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292156459378-kk192cgr6m59haq0cead1l6hg5hn90pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
